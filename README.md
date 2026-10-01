@@ -13,6 +13,9 @@ This project follows one academic year (Jul 2025 to Mar 2026) of the mess's kitc
 
 **Tools:** Python (pandas, matplotlib) · SQL (SQLite: joins, CTEs, window functions) · Jupyter · Streamlit + Plotly dashboard
 
+![Plate to Bin dashboard](reports/figures/dashboard_screenshot.png)
+*The Streamlit dashboard: filter by date, meal and campus event.*
+
 ---
 
 ## Key findings
@@ -140,3 +143,7 @@ plate-to-bin/
 - One cost per kg per dish; real ingredient prices change with the season.
 - The pilot has about 17 weekend breakfasts behind it, which is enough to see a large effect but worth re-checking after a full semester.
 - 17 plate-waste values were imputed, not measured (flagged in the `plate_waste_imputed` column).
+
+---
+
+**Aryan Raj** · [GitHub](https://github.com/aryan-novice) · [LinkedIn](https://www.linkedin.com/in/aryan-raj-4b0301374)
