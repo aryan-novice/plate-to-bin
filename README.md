@@ -96,7 +96,7 @@ The whole pipeline runs unchanged on **real data with the same columns**. If you
 ## Run it yourself
 
 ```bash
-git clone https://github.com/<your-username>/plate-to-bin.git
+git clone https://github.com/aryan-novice/plate-to-bin.git
 cd plate-to-bin
 pip install -r requirements.txt
 
