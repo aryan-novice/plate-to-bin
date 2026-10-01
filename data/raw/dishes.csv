@@ -1,0 +1,23 @@
+dish_id,dish_name,food_type,cost_per_kg
+D01,Poha,veg,48
+D02,Upma,veg,45
+D03,Aloo Paratha,veg,62
+D04,Idli Sambar,veg,55
+D05,Masala Dosa,veg,70
+D06,Bread Omelette,egg,75
+D07,Puri Bhaji,veg,58
+D08,Vermicelli Upma,veg,46
+D09,Rajma Chawal,veg,70
+D10,Chole Bhature,veg,78
+D11,Paneer Butter Masala,veg,160
+D12,Dal Makhani,veg,85
+D13,Lauki Chana Dal,veg,55
+D14,Mixed Veg,veg,65
+D15,Kadhi Pakoda,veg,60
+D16,Soya Chunk Curry,veg,72
+D17,Veg Biryani,veg,90
+D18,Chicken Curry,non-veg,180
+D19,Egg Curry,egg,95
+D20,Aloo Gobi,veg,58
+D21,Bhindi Masala,veg,68
+D22,Tinda Masala,veg,52

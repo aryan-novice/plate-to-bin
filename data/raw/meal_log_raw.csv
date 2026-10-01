@@ -1,0 +1,727 @@
+date,meal_type,dish_name,students_registered,headcount,food_prepared_kg,leftover_kg,plate_waste_kg,ran_out
+2025-11-02,breakfast,Poha,1200,363,276.7,165.0,8.9,N
+2025-08-18,dinner,Mixed Veg,1200,997,499.9,54.1,64.5,N
+2025-10-05,dinner,Chicken Curry,1200,773,479.5,154.1,7.0,N
+2025-10-01,breakfast,Poha,1200,901,278.4,33.4,21.7,N
+2026-01-14,dinner,Egg Curry,1200,1014,476.8,24.9,19.9,N
+2025-12-03,dinner,Egg Curry,1200,1168,511.5,2.6,,Y
+2025-08-22,lunch,Bhindi Masala,1200,1027,485.1,16.9,33.6,N
+2026-01-22,dinner,Tinda Masala,1200,946,480.0,68.7,104.3,N
+2025-10-08,dinner,Paneer Butter Masala,1200,1125,492.0,1.6,18.8,Y
+2026-02-14,breakfast,Poha,1200,391,125.3,4.8,8.4,N
+2026-02-10,lunch,Egg Curry,1200,999,480.4,47.2,26.2,N
+2025-11-15,lunch,Bhindi Masala,1200,894,469.1,76.7,29.5,N
+2025-11-14,dinner,Aloo Gobi,1200,968,491.9,47.7,36.2,N
+2025-11-26,lunch,Veg Biryani,1200,1101,477.2,2.5,23.4,Y
+2026-02-07,lunch,Lauki Chana Dal,1200,612,460.0,188.8,57.9,N
+11-12-2025,Lunch,Bhindi Masala,1200,897,470.7,48.7,,N
+2025-08-03,dinner,Rajma Chawal,1200,776,483.4,158.3,19.0,N
+2025-10-26,breakfast,Upma,1200,64,85.3,66.4,3.6,N
+2025-08-31,lunch,Dal Makhani,1200,898,480.9,62.0,26.3,N
+2025-12-16,lunch,Chicken Curry,1200,1051,485.3,42.6,16.1,N
+2025-08-05,lunch,Lauki Chana Dal,1200,963,443.6,6.3,84.1,N
+2025-12-14,Dinner,Mixed Veg,1200,691,507.5,176.4,52.6,N
+2025-09-27,dinner,Kadhi Pakoda,1200,1044,488.4,14.5,42.0,N
+2025-11-16,dinner,Chole Bhature,1200,811,513.5,145.3,14.4,N
+2025-08-17,breakfast,Idli Sambar,1200,90,264.9,239.3,2.2,N
+2025-10-19,breakfast,Aloo Paratha,1200,93,81.9,55.4,1.6,N
+2025-12-04,dinner,Bhindi Masala,1200,1178,513.7,16.0,46.2,N
+2025-11-18,lunch,Mixed Veg,1200,914,451.0,57.6,34.0,N
+2026-01-12,lunch,Lauki Chana Dal,1200,839,475.7,102.8,73.2,N
+2025-09-25,lunch,Chole Bhature,1200,1054,462.0,1.0,18.9,Y
+2025-09-30,dinner,Tinda Masala,1200,1025,498.3,38.1,121.7,N
+2026-03-09,dinner,Tinda Masala,1200,922,499.9,87.8,94.3,N
+2025-10-11,dinner,Veg Biryani,1200,1002,505.5,73.6,22.0,N
+2026-02-09,lunch,Veg Biryani,1200,1031,487.0,25.1,19.9,N
+2026-03-05,dinner,Mixed Veg,1200,974,479.5,77.0,39.8,N
+2025-11-16,breakfast,Puri Bhaji,1200,304,272.2,185.0,5.6,N
+2025-10-12,dinner,Egg Curry,1200,732,495.2,154.2,19.9,N
+2025-08-16,dinner,Rajma Chawal,1200,464,496.2,287.4,14.8,N
+2026-01-24,dinner,Dal Makhani,1200,497,499.2,277.0,12.2,N
+2025-11-30,lunch,paneer butter masala,1200,991,486.2,36.0,19.1,N
+2025-08-20,lunch,Veg Biryani,1200,1032,507.8,55.4,18.3,N
+2025-09-01,breakfast,Aloo Paratha,1200,761,264.1,51.3,14.7,N
+2026-03-02,breakfast,Poha,1200,716,276.3,62.2,22.0,N
+2025-11-28,lunch,Bhindi Masala,1200,992,493.3,70.3,28.3,N
+2026-02-19,lunch,Paneer Butter Masala,1200,1097,461.2,0.5,19.0,Y
+2026-01-19,lunch,Mixed Veg,1200,904,472.4,66.2,43.3,N
+2025-11-14,lunch,Egg Curry,1200,957,476.7,22.1,25.2,N
+2025-09-30,lunch,Bhindi Masala,1200,1036,450.7,1.0,36.1,Y
+2026-03-03,lunch,Tinda Masala,1200,501,478.7,254.6,63.9,N
+2025-09-19,breakfast,Masala Dosa,1200,735,278.8,51.8,10.7,N
+2025-11-29,dinner,Chole Bature,1200,1049,513.8,40.5,21.3,N
+2026-02-22,lunch,Veg Biryani,1200,989,471.6,58.7,25.5,N
+2025-11-17,breakfast,Vermicelli Upma,1200,761,263.6,42.5,34.3,N
+2025-08-06,BREAKFAST,Poha,1200,718,261.7,61.4,14.8,N
+2025-09-18,breakfast,Idli Sambar,1200,834,264.6,34.3,15.7,N
+2026-01-31,lunch,Dal Makhani,1200,954,463.9,22.7,29.5,N
+2025-10-07,lunch,Tinda Masala,1200,861,463.5,74.6,76.9,N
+2026-03-21,dinner,Aloo Gobi,1200,867,479.7,84.0,39.0,N
+2025-11-25,Lunch,Kadhi Pakoda,1200,1015,483.7,11.7,38.9,N
+2025-08-24,Lunch,Paneer Butter Masala,1200,940,480.1,56.7,16.9,N
+2025-09-12,breakfast,Bread Omelette,1200,798,281.8,56.6,13.1,N
+2025-09-15,dinner,Chicken Curry,1200,1159,483.7,1.8,11.5,Y
+2025-10-08,lunch,Chole Bhature,1200,1000,451.1,0.4,22.3,Y
+2026-01-28,dinner,Bhindi Masala,1200,1056,486.0,1.3,39.9,Y
+2026-01-25,breakfast,Masala Dosa,1200,200,278.5,217.4,3.0,N
+2025-10-23,lunch,Mixed Veg,1200,207,139.6,53.8,11.1,N
+2025-08-27,lunch,Chicken Curry,1200,1040,471.7,2.3,12.8,Y
+2026-01-15,dinner,Bhindi Masala,1200,1036,501.3,74.0,29.6,N
+2026-01-15,breakfast,Aloo Paratha,1200,794,271.6,30.1,13.9,N
+2025-11-12,breakfast,Aloo Paratha,1200,872,265.4,3.6,15.3,Y
+2025-09-21,dinner,Soya Chunk Curry,1200,768,504.3,169.3,59.7,N
+2026-02-10,breakfast,Masala Dosa,1200,805,257.7,14.4,10.1,N
+2025-08-18,lunch,Lauki Chana Dal,1200,934,479.4,61.5,94.3,N
+2025-07-31,lunch,Soya Chunk Curry,1200,928,494.1,46.1,75.7,N
+2025-07-24,lunch,Kadhi Pakoda,1200,948,486.6,41.3,52.8,N
+2025-09-01,lunch,Kadhi Pakoda,1200,981,450.8,29.9,35.8,N
+2026-03-03,breakfast,Upma,1200,380,269.4,148.3,21.2,N
+2025-11-07,dinner,Egg Curry,1200,943,504.5,90.2,21.2,N
+2026-01-17,dinner,Paneer Butter Masala,1200,949,492.6,67.3,16.4,N
+2025-08-09,lunch,Bhindi Masala,1200,942,470.7,43.8,38.6,N
+2025-11-03,dinner,Paneer Butter Masala,1200,1068,489.3,14.9,20.3,N
+2025-10-18,dinner,Chicken Curry,1200,222,140.4,40.2,3.0,N
+2025-07-25,dinner,Chicken Curry,1200,1041,519.8,47.7,13.0,N
+2025-09-15,lunch,Veg Biryani,1200,1017,472.6,45.1,23.0,N
+2026-01-20,breakfast,Vermicelli Upma,1200,698,268.2,69.8,27.6,N
+2025-09-10,dinner,Bhindi Masala,1200,1094,490.1,0.8,32.6,Y
+2025-11-28,breakfast,Aloo Paratha,1200,1044,259.3,1.5,15.4,Y
+2025-09-23,DINNER,Bhindi Masala,1200,1122,485.4,0.4,38.8,Y
+2025-11-29,BREAKFAST,Idli Sambar,1200,572,265.8,91.4,10.3,N
+2025-08-16,breakfast,Aloo Paratha,1200,257,274.2,199.9,3.4,N
+2026-02-17,lunch,Aloo Gobi,1200,1017,479.1,18.5,52.1,N
+2025-10-06,dinner,Bhindi Masala,1200,990,497.1,76.8,22.8,N
+07-09-2025,breakfast,Poha,1200,352,278.9,165.2,8.5,N
+2025-12-01,dinner,Kadhi Pakoda,1200,1138,484.2,5.3,46.5,Y
+2026-02-04,Lunch,Bhindi Masala,1200,996,491.0,44.8,34.0,N
+11-09-2025,lunch,Tinda Masala,1200,871,453.1,63.9,111.0,N
+2026-01-08,lunch,Egg Curry,1200,949,451.6,24.0,30.4,N
+2026-03-31,Lunch,Dal Makhani,1200,953,495.1,62.3,,N
+2025-10-27,dinner,Chole Bature,1200,1138,482.8,3.3,20.2,Y
+2025-11-08,breakfast,Puri Bhaji,1200,437,268.0,128.8,9.5,N
+2025-08-31,breakfast,Upma,1200,342,267.7,173.4,18.7,N
+2025-08-05,breakfast,Vermicelli Upma,1200,676,264.8,60.3,27.2,N
+2025-08-25,dinner,Kadhi Pakoda,1200,1075,463.3,0.1,46.3,Y
+2025-08-23,dinner,Chole Bhature,1200,1007,501.3,36.1,14.7,N
+2026-01-29,lunch,Tinda Masala,1200,847,440.7,73.1,83.2,N
+2026-01-28,breakfast,Vermicelli Upma,1200,679,270.7,71.8,38.4,N
+2025-09-07,lunch,Lauki Chana Dal,1200,775,455.6,96.4,59.6,N
+2026-03-22,dinner,Tinda Masala,1200,649,480.8,206.7,52.8,N
+2025-10-17,dinner,Soya Chunk Curry,1200,848,500.7,137.8,62.3,N
+2026-01-23,dinner,Chole Bhature,1200,1041,484.9,22.0,18.5,N
+2025-08-24,breakfast,Aloo Paratha,1200,407,284.2,161.5,7.6,N
+2025-09-06,DINNER,Dal Makhani,1200,986,465.8,62.2,24.5,N
+2026-02-05,breakfast,Vermicelli Upma,1200,704,276.6,58.2,31.4,N
+2025-09-17,lunch,Bhindi Masala,1200,1000,472.1,27.7,42.2,N
+2025-09-20,dinner,Mixed Veg,1200,779,499.3,147.4,38.8,N
+2026-03-19,lunch,Kadhi Pakoda,1200,946,478.4,55.2,,N
+2025-09-21,breakfast,Puri Bhaji,1200,366,269.6,168.8,5.6,N
+2025-09-26,breakfast,Idli Sambar,1200,888,271.2,2.0,19.3,Y
+2025-11-10,dinner,Dal Makhani,1200,1065,493.6,36.4,27.9,N
+2025-08-25,breakfast,Idli Sambar,1200,792,268.1,20.1,14.8,N
+2025-11-21,dinner,Bhindi Masala,1200,911,491.4,81.3,33.9,N
+2025-09-04,lunch,Bhindi Masala,1200,905,479.5,110.1,26.1,N
+2025-11-16,lunch,Rajma Chawal,1200,963,492.3,76.7,21.3,N
+2026-02-28,Dinner,Veg Biryani,1200,965,495.0,77.2,21.7,N
+2025-09-24,dinner,Rajma Chawal,1200,1176,505.2,1.1,31.4,Y
+2026-02-20,lunch,Lauki Chana Dal,1200,855,496.1,116.3,66.7,N
+2026-02-13,lunch,Dal Makhani,1200,983,460.1,35.7,23.7,N
+2025-12-06,dinner,Paneer Butter Masala,1200,1087,490.7,18.9,15.8,N
+2025-09-13,lunch,Dal Makhani,1200,980,474.3,22.0,23.7,N
+2025-08-27,breakfast,Bread Omelette,1200,801,284.2,57.4,14.5,N
+2026-02-06,dinner,Dal Makhani,1200,541,469.9,219.1,18.6,N
+2026-01-27,breakfast,Puri Bhaji,1200,800,264.3,34.1,12.7,N
+2026-03-12,dinner,Kadhi Pakoda,1200,1012,508.0,64.8,44.2,N
+2026-01-11,lunch,Paneer Butter Masala,1200,954,471.8,42.2,18.0,N
+2025-10-19,dinner,Aloo Gobi,1200,143,145.8,84.7,5.8,N
+2025-08-02,lunch,Aloo gobhi,1200,926,474.0,83.5,34.7,N
+2026-01-16,DINNER,Rajma Chawal,1200,985,500.2,62.8,16.0,N
+2025-08-25,lunch,Mixed Veg,1200,943,487.1,69.2,57.0,N
+2025-10-08,breakfast,Vermicelli Upma,1200,705,278.7,71.3,33.7,N
+2025-08-21,dinner,Aloo Gobi,1200,992,509.7,66.6,41.3,N
+2026-02-24,dinner,Tinda Masala,1200,979,477.9,38.1,90.3,N
+2026-03-08,breakfast,Puri Bhaji,1200,352,114.4,12.3,4.9,N
+2025-10-23,dinner,Kadhi Pakoda,1200,254,152.4,37.5,13.9,N
+2025-09-03,dinner,Aloo Gobi,1200,979,515.4,96.0,45.1,N
+2025-10-25,breakfast,Poha,1200,177,85.3,30.8,3.0,N
+2025-11-05,dinner,Kadhi Pakoda,1200,979,467.3,23.7,40.9,N
+2026-01-09,dinner,Tinda Masala,1200,874,516.9,147.6,107.0,N
+2025-12-10,lunch,Egg Curry,1200,1023,474.2,13.3,29.7,N
+2026-02-26,breakfast,Masala Dosa,1200,767,276.8,51.4,15.6,N
+2026-03-29,lunch,Tinda Masala,1200,779,466.4,101.9,98.9,N
+2026-01-17,breakfast,Masala Dosa,1200,472,274.3,131.1,6.6,N
+2025-08-07,dinner,Chicken Curry,1200,1138,466.9,0.6,13.4,Y
+2026-01-24,lunch,Paneer Butter Masala,1200,522,466.7,236.0,7.8,N
+2026-03-04,lunch,Paneer Butter Masala,1200,591,478.0,208.2,10.1,N
+2025-11-24,lunch,Lauki Chana Dal,1200,978,511.7,94.5,79.6,N
+2025-09-09,lunch,Chicken Curry,1200,1147,484.9,1.3,20.5,Y
+2026-02-16,dinner,Egg Curry,1200,1170,531.8,13.6,32.6,N
+2026-03-23,lunch,Rajma Chawal,1200,1016,483.8,3.9,30.6,N
+2026-01-16,lunch,Tinda Masala,1200,851,454.4,76.2,102.8,N
+2026-01-07,lunch,Veg Biryani,1200,1076,472.1,1.1,17.3,Y
+2026-02-18,dinner,Chole Bhature,1200,1178,493.2,2.5,17.5,Y
+2025-11-23,lunch,Chole Bature,1200,936,467.0,68.7,14.5,N
+2025-09-03,breakfast,Masala Dosa,1200,785,266.7,38.7,10.0,N
+11-02-2026,lunch,Tinda Masala,1200,824,473.0,90.6,119.0,N
+02-11-2025,lunch,Bhindi Masala,1200,944,452.4,35.0,37.1,N
+2025-11-13,dinner,Chicken Curry,1200,1122,488.8,0.9,12.4,Y
+2026-03-27,LUNCH,Chicken Curry,1200,1108,488.5,2.0,12.4,Y
+2025-11-04,lunch,Dal Makhani,1200,1018,481.1,41.1,19.3,N
+2026-01-06,dinner,Kadhi Pakoda,1200,1009,496.9,5.6,51.4,N
+2025-09-06,lunch,Paneer Butter Masala,1200,1147,478.6,1.2,23.8,Y
+2025-08-26,breakfast,Masala Dosa,1200,796,276.1,43.2,11.7,N
+13-02-2026,breakfast,Vermicelli Upma,1200,655,263.4,58.7,29.0,N
+2026-03-11,LUNCH,Dal Makhani,1200,945,507.9,63.7,18.2,N
+2025-08-10,lunch,Rajma Chawal,1200,868,472.1,89.3,22.2,N
+2025-09-23,breakfast,Poha,1200,918,282.6,13.8,20.3,N
+2025-12-19,breakfast,Vermicelli Upma,1200,721,269.6,56.1,31.7,N
+2025-10-27,breakfast,Aloo Paratha,1200,781,259.0,31.8,13.4,N
+2026-02-27,breakfast,Bread Omelette,1200,727,266.4,56.5,9.9,N
+2025-12-14,Lunch,Lauki Chana Dal,1200,769,493.5,151.0,98.0,N
+2025-08-14,lunch,Chicken Curry,1200,1110,481.1,2.2,15.3,Y
+2026-03-21,lunch,Egg Curry,1200,969,453.2,1.3,24.5,Y
+2026-01-09,breakfast,Masala Dosa,1200,767,282.2,61.9,12.3,N
+2025-12-01,BREAKFAST,Bread Omelette,1200,885,288.3,17.4,23.7,N
+2025-08-12,lunch,Mixed Veg,1200,896,475.5,64.0,54.8,N
+2026-03-26,BREAKFAST,Poha,1200,728,275.3,72.2,18.6,N
+2026-01-24,breakfast,Idli Sambar,1200,216,266.0,208.3,3.8,N
+2025-12-18,lunch,Tinda Masala,1200,849,486.1,99.2,100.5,N
+07-12-2025,breakfast,Idli Sambar,1200,429,249.7,119.1,8.7,N
+2025-10-10,breakfast,Upma,1200,653,286.7,102.0,33.4,N
+2025-11-05,lunch,Mixed Veg,1200,903,498.5,91.4,58.0,N
+2025-09-28,dinner,Veg Biryani,1200,901,537.5,147.8,19.7,N
+2026-02-21,dinner,Soya Chunk Curry,1200,980,501.1,43.5,46.6,N
+2026-01-27,dinner,Chicken Curry,1200,1129,493.5,0.1,11.6,Y
+2025-10-11,breakfast,Aloo Paratha,1200,490,277.5,134.2,7.3,N
+2025-12-17,lunch,Aloo Gobi,1200,1026,482.0,7.0,41.2,N
+2025-11-25,breakfast,Vermicelli Upma,1200,852,269.3,0.8,46.6,Y
+2025-10-05,lunch,Veg Biryani,1200,930,436.4,11.0,11.6,N
+2025-08-28,dinner,Bhindi Masala,1200,1105,507.5,10.5,35.9,N
+2025-09-02,dinner,Chicken Curry,1200,1180,517.8,8.6,12.3,N
+2026-03-17,dinner,Paneer Butter Masala,1200,1112,530.1,10.1,17.7,N
+2025-07-30,breakfast,Upma,1200,634,270.6,77.8,36.7,N
+2026-03-31,dinner,Lauki Chana Dal,1200,927,499.2,84.3,63.6,N
+2026-03-10,lunch,Rajma Chawal,1200,1029,503.1,58.0,25.2,N
+2025-08-04,lunch,Paneer Butter Masala,1200,1118,463.4,2.5,16.1,Y
+2025-09-02,lunch,Veg Biryani,1200,1138,474.5,1.5,30.6,Y
+2025-07-31,breakfast,Aloo Paratha,1200,785,265.4,30.1,8.2,N
+2025-11-26,breakfast,Poha,1200,864,262.1,0.7,24.4,Y
+2025-08-28,breakfast,Puri Bhaji,1200,789,267.4,6.9,13.6,N
+2026-03-11,BREAKFAST,Upma,1200,665,272.0,71.3,42.6,N
+2025-10-19,lunch,Egg Curry,1200,201,147.7,57.0,7.1,N
+2025-12-04,lunch,Aloo gobhi,1200,1003,477.3,26.7,34.4,N
+2026-02-19,dinner,Dal Makhani,1200,1152,522.4,3.0,31.3,Y
+2025-11-17,lunch,Dal Makhani,1200,974,497.9,35.0,24.4,N
+2025-12-18,Breakfast,Puri Bhaji,1200,832,283.0,37.1,10.2,N
+2025-10-17,breakfast,Poha,1200,750,267.9,51.5,20.9,N
+2025-08-30,lunch,Chole Bhature,1200,1064,448.1,1.8,17.2,Y
+2025-10-06,lunch,Aloo Gobi,1200,893,458.9,39.4,37.8,N
+2026-02-18,lunch,Rajma Chawal,1200,1070,501.2,34.7,23.8,N
+2026-02-17,dinner,Bhindi Masala,1200,1116,482.3,1.5,33.0,Y
+2025-07-30,lunch,Mixed Veg,1200,1013,473.5,2.2,65.1,Y
+2025-09-02,breakfast,Idli Sambar,1200,754,260.9,35.5,16.7,N
+2025-09-15,breakfast,Poha,1200,773,281.3,48.5,12.3,N
+2025-10-11,lunch,Soya Chunk Curry,1200,938,482.5,79.0,71.3,N
+2025-09-04,dinner,Tinda Masala,1200,899,514.7,87.1,129.2,N
+2026-02-15,breakfast,Upma,1200,314,108.5,14.6,16.1,N
+2025-12-15,dinner,Veg Biryani,1200,1083,472.2,1.4,,Y
+2025-09-29,breakfast,Puri Bhaji,1200,888,261.2,0.4,10.9,Y
+2026-02-09,dinner,Chicken Curry,1200,1175,473.5,0.2,12.2,Y
+2026-02-25,lunch,Chole Bhature,1200,1038,474.8,6.4,21.6,N
+2025-11-22,lunch,Tinda Masala,1200,822,479.9,102.5,117.2,N
+2025-08-07,breakfast,Upma,1200,710,284.0,77.1,37.6,N
+2025-08-03,lunch,Tinda Masala,1200,786,455.8,96.9,79.4,N
+2025-12-17,breakfast,Bread Omelette,1200,734,268.1,49.5,15.2,N
+2025-12-16,dinner,Egg Curry,1200,957,491.2,89.4,26.2,N
+2025-11-10,breakfast,Poha,1200,708,282.7,76.1,13.6,N
+2025-10-30,lunch,Kadhi Pakoda,1200,653,468.1,189.8,26.1,N
+2025-09-27,BREAKFAST,Masala Dosa,1200,580,267.9,105.8,,N
+2026-03-26,lunch,Soya Chunk Curry,1200,903,491.5,101.2,67.6,N
+2025-09-29,lunch,Egg Curry,1200,1132,464.1,5.7,32.6,N
+2025-07-26,lunch,Egg Curry,1200,985,476.0,36.2,30.4,N
+2025-07-23,dinner,Mixed Veg,1200,973,492.2,99.7,53.3,N
+2025-12-12,Breakfast,Poha,1200,728,259.6,46.4,15.8,N
+2025-11-26,dinner,Chicken Curry,1200,1174,490.2,1.0,15.9,Y
+2026-03-16,breakfast,Puri Bhaji,1200,813,264.2,12.9,12.0,N
+2026-01-06,lunch,Mixed Veg,1200,923,477.2,57.0,39.2,N
+2025-11-11,breakfast,Upma,1200,695,282.7,76.2,38.8,N
+2026-03-18,Breakfast,Poha,1200,709,272.5,62.5,19.2,N
+2026-03-04,breakfast,Aloo Paratha,1200,432,271.4,140.3,5.8,N
+2025-10-03,dinner,Mixed Veg,1200,945,506.6,116.0,62.2,N
+2025-11-21,LUNCH,Aloo Gobi,1200,964,452.9,69.5,32.7,N
+2025-10-26,dinner,Bhindi Masala,1200,112,148.3,98.4,4.5,N
+2026-02-12,dinner,Paneer Butter Masala,1200,1112,490.1,0.6,21.4,Y
+2026-01-05,lunch,Dal Makhani,1200,986,467.6,16.1,31.4,N
+2026-02-26,dinner,Lauki Chana Dal,1200,1015,501.4,22.1,82.6,N
+2025-10-16,dinner,Mixed Veg,1200,989,479.7,50.2,60.9,N
+2025-11-17,dinner,Lauki Chana Dal,1200,979,482.5,50.9,95.2,N
+2026-01-15,lunch,Aloo Gobi,1200,951,458.9,39.4,40.9,N
+2025-12-11,dinner,Tinda Masala,1200,887,502.9,121.2,92.7,N
+2025-08-16,lunch,Tinda Masala,1200,469,461.9,249.5,62.2,N
+2025-11-06,dinner,Veg Biryani,1200,1082,520.4,49.9,21.2,N
+2025-08-06,lunch,Kadhi Pakoda,1200,958,469.9,32500.0,39.9,N
+2025-10-12,lunch,Chicken Curry,1200,944,457.5,54.7,12.7,N
+2025-09-08,breakfast,Upma,1200,603,269.3,110.9,32.4,N
+2026-03-23,dinner,Chole Bhature,1200,1109,487.7,24.4,16.9,N
+2025-08-09,Breakfast,Idli Sambar,1200,464,272.0,144.0,8.6,N
+2026-01-08,dinner,Aloo Gobi,1200,989,486.4,37.3,47.0,N
+2026-02-11,dinner,Rajma Chawal,1200,1067,463.2,1.9,29.7,Y
+2025-08-08,lunch,Egg Curry,1200,947,453.4,17.1,24.7,N
+2025-12-03,LUNCH,Chicken Curry,1200,1145,458.7,2.8,12.1,Y
+2026-03-20,breakfast,Aloo Paratha,1200,817,285.1,40.4,12.3,N
+2025-11-07,breakfast,Bread Omelette,1200,832,283.2,38.1,13.1,N
+2025-12-06,lunch,Chole Bhature,1200,1100,458.1,1.9,17.3,Y
+2026-03-01,dinner,Egg Curry,1200,742,499.5,169.6,16.2,N
+2025-07-29,lunch,Dal Makhani,1200,1020,489.8,40.8,21.5,N
+2026-01-05,dinner,Lauki Chana Dal,1200,864,483.4,87.0,80.9,N
+2025-09-17,breakfast,Aloo Paratha,1200,833,273.9,42.2,13.9,N
+2025-11-09,breakfast,Vermicelli Upma,1200,290,269.9,184.4,13.1,N
+2025-08-09,dinner,Tinda Masala,1200,783,500.9,141.6,92.9,N
+2025-09-10,breakfast,Idli Sambar,1200,798,270.1,32.9,13.5,N
+2025-12-15,lunch,Soya Chunk Curry,1200,953,472.9,45.1,65.4,N
+2025-09-12,dinner,paneer butter masala,1200,1005,516.1,42.7,,N
+2025-10-10,lunch,Mixed Veg,1200,958,486.6,67.8,54.7,N
+2025-09-11,dinner,Rajma Chawal,1200,1052,502.6,43.2,35.5,N
+2026-02-10,breakfast,Masala Dosa,1200,805,257.7,14.4,10.1,N
+2025-11-28,dinner,Tinda Masala,1200,973,478.4,29.5,110.7,N
+2026-03-06,breakfast,Masala Dosa,1200,782,275.5,30.0,10.4,N
+2026-01-28,lunch,Aloo Gobi,1200,951,483.6,47.6,43.6,N
+2025-12-11,breakfast,Vermicelli Upma,1200,682,275.6,72.1,30.7,N
+2026-02-06,breakfast,Poha,1200,707,263.6,60.2,16.9,N
+2026-03-02,dinner,Bhindi Masala,1200,1019,481.0,17.8,28.9,N
+2025-08-08,breakfast,Aloo Paratha,1200,807,260.0,14.2,16.2,N
+2026-02-07,BREAKFAST,Upma,1200,383,128.6,17.2,18.8,N
+30-10-2025,Breakfast,Bread Omelette,1200,719,267.2,46.6,9.6,N
+2025-09-15,breakfast,Poha,1200,773,281.3,48.5,12.3,N
+2025-11-24,breakfast,Puri Bhaji,1200,935,277.4,3.3,13.7,Y
+2026-01-12,dinner,Mixed Veg,1200,959,482.9,66.4,58.0,N
+2025-10-31,breakfast,Puri Bhaji,1200,712,278.4,63.5,13.7,N
+2025-07-29,BREAKFAST,Poha,1200,718,283.2,74.6,14.6,N
+2026-03-27,breakfast,Upma,1200,712,280.2,75.9,45.6,N
+2026-02-20,dinner,Mixed Veg,1200,1056,522.2,43.4,66.0,N
+2026-02-12,breakfast,Puri Bhaji,1200,753,267.3,57.8,13.4,N
+2025-07-27,breakfast,Puri Bhaji,1200,414,276.7,153.0,6.2,N
+2026-01-21,dinner,Aloo Gobi,1200,1074,473.5,13.0,56.8,N
+2025-10-13,dinner,Tinda Masala,1200,1031,486.4,32.0,,N
+2026-01-07,dinner,Chicken Curry,1200,1178,475.1,2.9,14.4,Y
+2025-08-19,breakfast,Bread Omelette,1200,756,270.4,43.9,13.5,N
+2025-11-13,lunch,Veg Biryani,1200,978,492.1,39.6,21.9,N
+2025-11-20,breakfast,Aloo Paratha,1200,830,262.4,14.3,11.6,N
+31-01-2026,breakfast,Aloo Paratha,1200,523,267.2,117.6,8.7,N
+2026-03-12,breakfast,Aloo Paratha,1200,833,274.9,28.7,9.7,N
+2025-12-18,dinner,Rajma Chawal,1200,1039,491.2,17.9,28.2,N
+2025-10-01,Dinner,Chole Bhature,1200,1178,504.3,0.2,20.8,Y
+2026-02-14,Dinner,Kadhi Pakoda,1200,844,475.0,93.0,29.7,N
+2025-11-06,breakfast,Masala Dosa,1200,840,264.8,2.9,12.8,N
+2025-11-18,dinner,Kadhi Pakoda,1200,953,500.3,66.4,48.5,N
+2026-03-25,lunch,Mixed Veg,1200,911,449.5,65.7,44.4,N
+2026-01-05,breakfast,Poha,1200,706,275.5,65500.0,15.2,N
+2025-09-23,Lunch,Aloo Gobi,1200,998,489.0,71.8,51.0,N
+2026-03-29,breakfast,Idli Sambar,1200,353,111.7,11.5,7.8,N
+2026-01-08,breakfast,Idli Sambar,1200,757,271.8,38.9,14.5,N
+2025-08-12,breakfast,Puri Bhaji,1200,720,274.5,47.4,9.5,N
+2025-12-07,dinner,Lauki Chana Dal,1200,771,521.7,181.8,62.6,N
+2025-08-13,dinner,Veg Biryani,1200,1126,505.2,1.5,27.7,Y
+2025-10-05,lunch,Veg Biryani,1200,930,436.4,11.0,11.6,N
+2026-03-13,lunch,Soya Chunk Curry,1200,862,484.4,107.7,45.9,N
+2026-02-21,Lunch,Kadhi Pakoda,1200,995,487.4,37.4,44.4,N
+2025-07-26,breakfast,Bread Omelette,1200,485,279.1,132.6,9.9,N
+2026-03-15,breakfast,Bread Omelette,1200,276,91.4,14.9,3.3,N
+2026-01-30,lunch,Chole Bhature,1200,1037,480.7,5.0,24.4,N
+2025-11-27,dinner,Aloo Gobi,1200,1183,495.8,0.5,47.5,Y
+2026-03-28,breakfast,Aloo Paratha,1200,510,174.9,25.8,6.7,N
+2025-12-02,breakfast,Puri Bhaji,1200,884,276.7,7.0,12.2,N
+2025-09-04,breakfast,Bread Omelette,1200,777,276.7,50.1,12.5,N
+2025-07-30,dinner,Kadhi Pakoda,1200,1060,496.8,0.3,57.7,Y
+2025-09-19,lunch,Paneer Butter Masala,1200,1032,480.5,39.2,13.5,N
+2025-10-04,dinner,Soya Chunk Curry,1200,798,479.7,128.2,65.5,N
+2026-03-18,lunch,Lauki Chana Dal,1200,823,474.9,107.3,82.3,N
+2025-08-24,dinner,Dal Makhani,1200,721,500.8,177.6,18.4,N
+2025-11-05,breakfast,Idli Sambar,1200,719,264.1,38.5,15.7,N
+2025-10-18,lunch,Veg Biryani,1200,222,152.1,55.2,5.4,N
+2025-11-15,breakfast,Bread Omelette,1200,448,265.2,136.3,9.8,N
+2025-12-12,lunch,Rajma Chawal,1200,1007,464.4,16.8,27.8,N
+2025-12-13,dinner,Dal Makhani,1200,868,503.1,86.4,16.8,N
+2025-12-05,BREAKFAST,Upma,1200,870,274.2,33.7,37.5,N
+2025-10-09,lunch,Dal Makhani,1200,995,476.9,24.8,36.2,N
+2026-01-06,breakfast,Upma,1200,643,278.0,74.6,39.8,N
+2025-11-27,lunch,Egg Curry,1200,984,473.7,45.2,26.6,N
+2025-09-26,dinner,Lauki Chana Dal,1200,1090,487.8,15.9,94.9,N
+2026-03-12,breakfast,Aloo Paratha,1200,833,274.9,28.7,9.7,N
+2025-08-17,dinner,Paneer Butter Masala,1200,491,510.1,296.2,8.0,N
+2025-08-29,lunch,Tinda Masala,1200,841,458.8,71.3,111.6,N
+2025-08-22,breakfast,Poha,1200,757,269.3,40.2,10.3,N
+2025-09-14,lunch,Mixed Veg,1200,903,472.6,70.8,51.7,N
+2026-02-03,breakfast,Bread Omelette,1200,739,274.9,53.8,11.9,N
+2025-09-22,breakfast,Vermicelli Upma,1200,850,281.0,24.6,38.5,N
+2026-03-12,LUNCH,Mixed Veg,1200,922,453.7,39.3,42.6,N
+2026-02-22,breakfast,Poha,1200,418,137.5,10.7,9.9,N
+20-08-2025,dinner,Chicken Curry,1200,1120,504.0,1.2,17.4,Y
+2025-11-03,breakfast,Upma,1200,668,265.1,74.9,38.0,N
+16-10-2025,breakfast,Vermicelli Upma,1200,669,282.4,79.4,32.8,N
+2025-09-05,breakfast,Puri Bhaji,1200,773,257.4,29700.0,8.7,N
+2026-03-07,breakfast,Bread Omelette,1200,446,148.9,12.9,7.1,N
+2025-10-21,breakfast,Masala Dosa,1200,198,81.5,26.2,2.4,N
+08-08-2025,dinner,Aloo Gobi,1200,987,504.5,80.6,33.2,N
+2026-02-13,dinner,Lauki Chana Dal,1200,848,487.8,87.3,79.5,N
+2025-12-05,lunch,Tinda Masala,1200,891,499.9,108.3,,N
+2025-08-19,lunch,Kadhi Pakoda,1200,905,462.5,75.0,46.1,N
+2026-02-14,lunch,Mixed Veg,1200,949,494.8,46.1,46.0,N
+2026-02-05,lunch,Rajma Chawal,1200,941,468.6,14.0,32.2,N
+2025-10-22,lunch,Dal Makhani,1200,238,148.8,50.2,6.9,N
+2025-09-05,lunch,Rajma Chawal,1200,1001,467.8,13.2,30.5,N
+2025-11-18,breakfast,Poha,1200,727,276.3,72.3,16.7,N
+2025-12-02,dinner,Veg Biryani,1200,1170,469.5,1.7,24.1,Y
+2025-10-24,DINNER,Veg Biryani,1200,296,148.6,15.0,6.8,N
+2026-03-05,lunch,Lauki Chana Dal,1200,837,469.8,72.5,72.0,N
+2026-02-15,lunch,Soya Chunk Curry,1200,831,447.3,68.4,51.4,N
+2025-12-01,lunch,Mixed Veg,1200,953,490.2,55.2,71.7,N
+2025-11-11,LUNCH,Lauki Chana Dal,1200,848,504.6,128.2,62.5,N
+2025-11-19,dinner,Veg Biryani,1200,1126,474.8,2.0,21.8,Y
+2025-07-28,dinner,Paneer Butter Masala,1200,1102,476.4,23.0,11.9,N
+2025-11-13,breakfast,Idli Sambar,1200,819,279.4,40.0,15.1,N
+2025-09-13,dinner,Lauki Chana Dal,1200,741,451.8,126.7,76.5,N
+2026-03-20,lunch,Veg Biryani,1200,1049,497.7,26.0,20.5,N
+2025-11-09,lunch,Tinda Masala,1200,789,474.8,113.6,107.3,N
+2025-11-01,lunch,Egg Curry,1200,736,495.7,159.9,24.9,N
+2026-03-13,breakfast,Idli Sambar,1200,768,269.4,30.6,16.9,N
+01-09-2025,dinner,Soya Chunk Curry,1200,947,501.2,73.3,55.0,N
+2025-11-15,dinner,Tinda Masala,1200,769,507.3,183.0,88.1,N
+2026-01-12,breakfast,Vermicelli Upma,1200,667,262.1,70.6,28.2,N
+2026-03-24,dinner,Dal Makhani,1200,1019,517.7,29.4,23.9,N
+2025-10-09,breakfast,Poha,1200,747,275.4,64.5,17.5,N
+2026-03-26,dinner,Veg Biryani,1200,1084,517.5,29.1,24.3,N
+2025-11-04,breakfast,Aloo Paratha,1200,790,284.3,34.4,12.6,N
+2026-01-31,dinner,Lauki Chana Dal,1200,784,481.2,133.4,61.9,N
+2025-10-16,LUNCH,Lauki Chana Dal,1200,939,464.7,55.8,77.7,N
+2025-08-22,dinner,Tinda Masala,1200,951,494.1,83.4,78.4,N
+22-03-2026,breakfast,Masala Dosa,1200,404,134.3,13.2,6.6,N
+2026-02-07,dinner,Mixed Veg,1200,496,492.2,262.9,25.6,N
+2026-03-04,dinner,Dal Makhani,1200,530,494.7,261.8,13.2,N
+2025-08-19,dinner,Soya Chunk Curry,1200,964,487.4,68.9,67.5,N
+2025-09-26,lunch,Dal Makhani,1200,1068,493.2,41.2,24.6,N
+2025-07-22,breakfast,Upma,1200,656,271.1,80.0,33.6,N
+2026-02-21,breakfast,Vermicelli Upma,1200,507,162.6,7.2,25.6,N
+2025-11-08,lunch,Aloo Gobi,1200,898,466.4,41.5,34.9,N
+2026-02-27,dinner,Kadhi Pakoda,1200,911,495.8,69.8,39.6,N
+2026-03-17,breakfast,Vermicelli Upma,1200,662,270.4,72.4,40.5,N
+2026-01-29,dinner, Rajma Chawal ,1200,1047,470.2,15.4,30.4,N
+2025-09-07,dinner,Mixed Veg,1200,659,504.9,240.0,33.3,N
+2025-12-10,DINNER,Aloo gobhi,1200,1119,473.9,0.5,44.3,Y
+2025-07-27,lunch,Bhindi Masala,1200,804,497.0,136.9,23.6,N
+2025-11-07,lunch,Chicken Curry,1200,1049,478.3,9.6,16.7,N
+2026-02-04,breakfast,Puri Bhaji,1200,825,265.6,18.9,13.5,N
+2025-10-15,dinner,Dal Makhani,1200,1042,490.1,0.6,25.9,Y
+2025-10-28,LUNCH,Paneer Butter Masala,1200,1006,451.5,41.5,20.2,N
+2025-10-30,dinner,Soya Chunk Curry,1200,562,489.3,241.7,43.2,N
+2025-11-19,lunch,Soya Chunk Curry,1200,858,468.7,95.3,,N
+2025-10-25,dinner,Egg Curry,1200,235,154.1,50.1,7.9,N
+2025-09-22,lunch,Chicken Curry,1200,1124,452.9,1.9,13.6,Y
+2026-03-25,dinner,Kadhi Pakoda,1200,1028,485.9,16.1,48.2,N
+2026-03-19,breakfast,Upma,1200,634,284.3,98.9,40.4,N
+24-09-2025,lunch,Tinda Masala,1200,838,474.2,111.1,74.4,N
+2025-09-05,dinner,Chole Bhature,1200,1001,497.2,30.3,17.5,N
+2025-08-17,lunch,Chole Bhature,1200,636,503.4,217.0,11.7,N
+2025-08-30,dinner,Paneer Butter Masala,1200,1006,496.6,20.7,18.8,N
+2026-02-26,lunch,Dal Makhani,1200,1059,466.9,5.1,26.1,Y
+2025-08-26,dinner,Veg Biryani,1200,1178,487.7,1.1,20.9,Y
+2025-08-18,breakfast,Masala Dosa,1200,826,274.9,27.8,8.8,N
+2026-01-09,lunch,Bhindi Masala,1200,978,459.7,23.2,42.0,N
+2026-03-18,dinner,Mixed Veg,1200,1025,485.2,28.9,61.0,N
+2025-09-18,dinner,Chole Bhature,1200,1181,484.9,1.2,18.3,Y
+2026-02-08,lunch,Kadhi Pakoda,1200,632,496.6,222.2,29.3,N
+2026-03-11,Dinner,Lauki Chana Dal,1200,955,499.5,60.0,79.5,N
+2025-08-23,breakfast,Upma,1200,395,269.9,151.4,22.1,N
+2026-01-10,lunch,Rajma Chawal,1200,969,472.1,29.6,25.9,N
+2025-08-14,dinner,Egg Curry,1200,1052,495.9,6100.0,29.6,N
+2025-07-23,Lunch,Lauki Chana Dal,1200,775,479.0,127.1,69.4,N
+2026-01-30,dinner,Paneer Butter Masala,1200,1004,517.6,42.8,20.6,N
+2026-03-15,dinner,Bhindi Masala,1200,742,495.5,161.7,25.2,N
+2025-10-20,breakfast,Idli Sambar,1200,182,83.1,32.5,4.0,N
+2025-10-22,breakfast,Bread Omelette,1200,184,79.0,24.1,3.8,N
+2026-01-21,lunch,Egg Curry,1200,898,456.4,42.0,18.8,N
+2025-09-10,lunch,Aloo Gobi,1200,1001,470.9,28.1,38.4,N
+2026-01-25,dinner,Mixed Veg,1200,356,485.5,328.4,18.5,N
+2025-09-22,dinner,Egg Curry,1200,1149,473.5,0.1,27.9,Y
+2026-03-09,lunch,Bhindi Masala,1200,916,485.4,86.7,26.7,N
+2026-03-17,lunch,Chole Bhature,1200,970,482.6,11.6,15.1,N
+2025-09-21,lunch,Kadhi Pakoda,1200,855,479.4,96.6,41.5,N
+2025-08-06,dinner,Soya Chunk Curry,1200,948,480.3,45.0,54.8,N
+2025-08-02,dinner,Bhindi Masala,1200,882,509.1,126.4,26.4,N
+2025-12-17,DINNER,Bhindi Masala,1200,1044,517.1,42.9,43.7,N
+2025-12-07,lunch,Dal Makhani,1200,913,472.8,68.7,20.3,N
+2026-03-07,lunch,Veg Biryani,1200,1047,479.6,2.4,,Y
+2025-09-28,lunch,Soya Chunk Curry,1200,852,469.2,99.8,50.1,N
+2025-11-23,breakfast,Bread Omelette,1200,380,271.7,153.1,6.5,N
+2025-07-22,dinner,Dal Makhani,1200,1115,526.8,3.1,33.4,Y
+2025-08-15,breakfast,Upma,1200,360,262.0,158.2,20.0,N
+2026-03-31,breakfast,Bread Omelette,1200,734,285.3,70.3,9.9,N
+2025-10-11,dinner,Veg Biryani,1200,1002,505.5,73.6,22.0,N
+2025-08-05,Dinner,Mixed Veg,1200,1027,483.3,43.3,71.1,N
+2025-10-29,dinner,Mixed Veg,1200,984,507.2,74.1,52.0,N
+2025-08-13,lunch,Soya Chunk Curry,1200,863,503.8,85.9,57.9,N
+2025-11-27,breakfast,Upma,1200,828,264.8,25.8,,N
+25-01-2026,lunch,Lauki Chana Dal,1200,448,462.1,266.4,46.4,N
+24-03-2026,lunch,Paneer Butter Masala,1200,1044,524.7,54.4,19.8,N
+2025-10-04,breakfast,Idli Sambar,1200,397,273.0,160.1,8.5,N
+2025-10-24,lunch,Soya Chunk Curry,1200,257,133.9,18.8,19.4,N
+2025-07-24,dinner,Soya Chunk Curry,1200,953,478.2,33.9,69.3,N
+2026-02-02,dinner,Veg Biryani,1200,1082,511.5,16.0,25.1,N
+2025-09-09,breakfast,Aloo Paratha,1200,830,278.2,34.2,10.4,N
+2026-01-07,breakfast,Aloo Paratha,1200,861,267.7,17.8,15.0,N
+2026-01-29,breakfast,Poha,1200,745,254.1,31.9,17.4,N
+2025-08-28,Lunch,Aloo Gobi,1200,994,472.4,25.9,31.1,N
+2025-10-22,dinner,Lauki Chana Dal,1200,239,158.9,50.3,16.9,N
+2025-10-13,lunch,Bhindi Masala,1200,1008,483.8,25.1,37.8,N
+2026-02-16,breakfast,Aloo Paratha,1200,971,292.3,1.2,14.0,Y
+2025-09-24,breakfast,Upma,1200,831,273.3,40.8,40.6,N
+2026-01-27,lunch,Veg Biryani,1200,1033,486.6,31.6,20.3,N
+2026-03-16,dinner, Rajma Chawal ,1200,1108,501.9,2.7,33.8,N
+2025-08-11,dinner,Lauki Chana Dal,1200,954,480.5,57.4,99.0,N
+2026-01-26,Dinner,Soya Chunk Curry,1200,562,490.9,228.3,43.3,N
+2025-10-29,lunch,Lauki Chana Dal,1200,896,486.4,84.0,89.8,N
+2025-10-02,breakfast,Upma,1200,705,272.2,67.5,28.8,N
+2025-12-19,lunch,Chole Bhature,1200,1070,476.6,27.9,17.6,N
+2025-12-09,dinner,Chicken Curry,1200,1183,491.1,0.3,16.5,Y
+2025-11-21,breakfast,Idli Sambar,1200,778,269.6,50.3,17.5,N
+2026-01-19,breakfast,Puri Bhaji,1200,869,266.1,2.7,12.6,Y
+2025-08-13,breakfast,Vermicelli Upma,1200,674,276.4,60.4,31.9,N
+2025-08-21,breakfast,Vermicelli Upma,1200,718,283.3,67.1,35.6,N
+2026-01-13,dinner,Soya Chunk Curry,1200,1024,485.7,0.9,59.2,Y
+2025-08-12,dinner,Kadhi Pakoda,1200,1023,510.6,94.0,35.5,N
+2025-07-28,breakfast,Vermicelli Upma,1200,716,273.3,54.0,38.8,N
+2025-08-15,dinner,Bhindi Masala,1200,515,512.1,268.7,15.9,N
+2026-02-08,breakfast,Aloo Paratha,1200,425,136.4,1.6,6.7,N
+2026-03-17,dinner,Paneer Butter Masala,1200,1112,530.1,10.1,17.7,N
+2025-10-07,dinner, Rajma Chawal ,1200,1065,491.7,25.2,24.9,N
+2026-03-23,breakfast,Bread Omelette,1200,781,265.8,40.6,15.5,N
+2025-10-03,breakfast,Aloo Paratha,1200,816,283.7,51.6,12.2,N
+2025-11-02,dinner,Tinda Masala,1200,640,512.8,232.1,70.1,N
+2025-08-31,dinner,Lauki Chana Dal,1200,642,517.6,233.6,45.5,N
+2025-10-05,breakfast,Masala Dosa,1200,375,272.4,165.4,5.0,N
+2026-02-01,dinner,Kadhi Pakoda,1200,663,469.9,173.8,36.2,N
+2025-08-04,Breakfast,Puri Bhaji,1200,795,277.9,50.4,12.1,N
+2025-07-22,lunch,Paneer Butter Masala,1200,1089,492.8,0.3,20.8,Y
+2025-11-23,dinner,Paneer Butter Masala,1200,848,499.6,123.6,14.1,N
+2025-12-09,lunch,Veg Biryani,1200,1105,490.6,0.3,22.1,Y
+2025-11-30,breakfast,Masala Dosa,1200,472,265.4,127.2,7.4,N
+2026-02-11,breakfast,Bread Omelette,1200,710,270.5,55.4,13.2,N
+2025-08-11,lunch,Dal Makhani,1200,1010,463.4,0.0,26.9,Y
+2025-08-03,breakfast,Bread Omelette,1200,353,273.2,161.7,8.3,N
+2025-08-26,lunch,Soya Chunk Curry,1200,987,464.5,10.3,80.6,N
+14-10-2025,breakfast,Bread Omelette,1200,771,278.6,48.1,12.2,N
+2026-03-30,lunch,Chole Bhature,1200,1014,478.0,6.0,18.2,N
+2025-11-22,dinner,Rajma Chawal,1200,942,496.1,87.9,29.9,N
+27-09-2025,lunch,Mixed Veg,1200,1019,499.4,49.0,47.1,N
+2026-03-28,dinner,Bhindi Masala,1200,862,512.5,120.1,32.4,N
+2025-07-23,BREAKFAST,Aloo Paratha,1200,795,281.9,54.5,12.2,N
+2026-01-17,LUNCH,Chole Bhature,1200,1006,477.3,38.2,21.7,N
+2026-03-22,lunch,Bhindi Masala,1200,926,469.6,72900.0,33.0,N
+2026-02-01,breakfast,Idli Sambar,1200,355,120.9,17.4,6.2,N
+2025-10-15,lunch,Paneer Butter Masala,1200,1021,481.0,26.5,16.9,N
+2025-10-23,breakfast,Puri Bhaji,1200,194,84.5,29.2,4.0,N
+2026-03-09,BREAKFAST,Vermicelli Upma,1200,621,289.4,104.2,35.7,N
+2026-03-29,dinner,Rajma Chawal,1200,687,524.3,214.1,19.5,N
+2025-12-19,dinner,Paneer Butter Masala,1200,1061,509.7,58.4,20.4,N
+2025-11-04,dinner,Lauki Chana Dal,1200,934,498.4,53.5,94.1,N
+2025-12-12,dinner,Chole Bhature,1200,1014,502.1,47.1,16.8,N
+2025-10-28,dinner,Dal Makhani,1200,1025,487.1,0.0,37.2,Y
+2025-12-13,lunch,Paneer Butter Masala,1200,1038,471.1,39.5,19.4,N
+2026-02-19,breakfast,Bread Omelette,1200,933,269.8,3.5,13.6,Y
+2025-12-14,breakfast,Aloo Paratha,1200,313,272.7,183.2,5.1,N
+2025-11-06,lunch,Soya Chunk Curry,1200,903,469.6,50.6,48.5,N
+02-12-2025,LUNCH,Soya Chunk Curry,1200,955,461.2,49.3,73.1,N
+2025-10-17,lunch,Kadhi Pakoda,1200,919,453.7,1.5,41.2,Y
+2026-02-20,breakfast,Puri Bhaji,1200,948,277.8,8.1,14.1,N
+2025-10-21,dinner,Paneer Butter Masala,1200,301,150.8,18.0,5.9,N
+2026-02-06,lunch,Paneer Butter Masala,1200,775,499.3,159.8,12.7,N
+2026-02-04,dinner,Tinda Masala,1200,908,493.9,90300.0,115.2,N
+2026-01-26,lunch,Kadhi Pakoda,1200,492,495.0,281.7,22.2,N
+2025-10-06,breakfast,Bread Omelette,1200,794,263.9,32.9,15.5,N
+2025-10-10,dinner,Kadhi Pakoda,1200,898,473.8,92.4,23.3,N
+2025-09-14,dinner,Kadhi Pakoda,1200,769,510.0,160.5,30.6,N
+2026-01-20,lunch,Soya Chunk Curry,1200,887,482.5,105.1,73.3,N
+2025-11-08,dinner,Bhindi Masala,1200,874,480.7,81.7,30.4,N
+2025-12-10,breakfast,Puri Bhaji,1200,961,266.7,0.5,13.4,Y
+2026-02-02,lunch,Soya Chunk Curry,1200,911,458.9,40.7,70.0,N
+2025-09-13,breakfast,Puri Bhaji,1200,460,270.5,134.4,8.3,N
+2025-09-08,dinner,Veg Biryani,1200,1181,495.4,3.1,25.6,Y
+2025-10-04,lunch,Kadhi Pakoda,1200,914,461.9,67.8,38.2,N
+2025-08-21,lunch,Egg Curry,1200,921,484.2,73.0,25.0,N
+2025-10-02,DINNER,Dal Makhani,1200,1038,485.4,9.8,33.0,N
+2026-01-10,dinner,Chole Bhature,1200,900,497.8,121.8,16.3,N
+2026-03-30,dinner,paneer butter masala,1200,1144,501.4,3.4,23.5,N
+2026-03-06,dinner,Soya Chunk Curry,1200,888,469.5,37.8,81.7,N
+2025-08-01,lunch,Chicken Curry,1200,1046,466.0,1.3,16.3,Y
+2025-10-01,lunch,Rajma Chawal,1200,1015,465.7,0.5,31.1,Y
+2025-08-14,breakfast,Poha,1200,738,261.7,48.6,21.8,N
+2025-10-02,lunch,Paneer Butter Masala,1200,1001,472.7,43.7,15.6,N
+2025-09-30,breakfast,Vermicelli Upma,1200,850,267.6,15.0,42.8,N
+2026-03-03,dinner,Rajma Chawal,1200,535,476.1,250.4,17.6,N
+2025-11-29,lunch,Rajma Chawal,1200,1097,477.2,0.1,31.9,Y
+2025-11-20,lunch,Chicken Curry,1200,1090,506.1,11.8,19.0,N
+2025-07-25,breakfast,Masala Dosa,1200,857,259.3,0.1,10.7,Y
+2026-02-28,lunch,Soya Chunk Curry,1200,889,501.7,112.7,59.2,N
+2025-11-12,lunch,Kadhi Pakoda,1200,959,489.0,61.1,40.3,N
+2025-09-25,breakfast,Aloo Paratha,1200,969,267.8,2.5,14.2,Y
+2025-10-07,breakfast,Puri Bhaji,1200,795,265.0,39.2,11.6,N
+2025-12-08,Breakfast,Masala Dosa,1200,989,280.9,1.2,11.9,N
+2026-02-24,breakfast,Aloo Paratha,1200,945,271.8,1.0,15.3,N
+2026-02-12,lunch,Chole Bhature,1200,1010,471.4,22.0,23.4,N
+2025-10-28,breakfast,Idli Sambar,1200,763,260.4,49.3,18.0,N
+2025-08-11,breakfast,Bread Omelette,1200,774,264.2,24.1,15.7,N
+2025-07-25,lunch,Veg Biryani,1200,1090,482.7,7.7,26.0,N
+2025-12-13,breakfast,Upma,1200,372,265.7,163.9,20.3,N
+2025-07-26,dinner,Aloo Gobi,1200,840,483.5,117.1,37.2,N
+2026-02-22,dinner,Chicken Curry,1200,929,507.0,84.6,12.0,N
+2025-11-14,breakfast,Masala Dosa,1200,858,275.3,7.1,13.4,N
+2025-09-28,breakfast,Bread Omelette,1200,415,277.3,150.7,10.5,N
+2025-08-20,breakfast,Puri Bhaji,1200,769,276.1,56.4,11.8,N
+2025-10-31,lunch,Veg Biryani,1200,756,476.6,138.0,19.1,N
+2025-11-11,dinner,Mixed Veg,1200,928,489.7,74.4,52.3,N
+2025-11-24,dinner,Mixed Veg,1200,1133,491.8,14.4,43.8,N
+2025-11-12,dinner,Soya Chunk Curry,1200,914,505.2,114.3,69.7,N
+2026-01-10,breakfast,Bread Omelette,1200,481,275.0,127.6,11.4,N
+2026-02-17,breakfast,Idli Sambar,1200,884,276.3,18.9,16.7,N
+2026-02-05,dinner,Chole Bhature,1200,1115,504.6,0.4,20.9,Y
+2025-07-31,dinner,Veg Biryani,1200,1172,504.9,0.7,29.3,Y
+2026-03-20,Dinner,Chicken Curry,1200,1067,494.9,58.4,16.4,N
+2025-09-16,lunch,Egg Curry,1200,918,469.3,68.2,25.4,N
+01-03-2026,breakfast,Vermicelli Upma,1200,378,122.7,8.1,18.7,N
+27-03-2026,dinner,Egg Curry,1200,958,507.0,60.1,19.2,N
+2025-12-04,breakfast,Poha,1200,903,275.7,0.7,23.6,Y
+2026-02-24,lunch,Bhindi Masala,1200,1054,468.2,2.1,27.6,Y
+2025-09-08,lunch,Soya Chunk Curry,1200,927,475.3,28.3,55.7,N
+2025-09-25,dinner,paneer butter masala,1200,1176,489.0,0.5,22.6,Y
+2025-10-26,lunch,Aloo Gobi,1200,165,143.0,72.6,6.3,N
+2026-02-16,lunch,Chicken Curry,1200,1101,493.8,1.2,17.0,Y
+2026-03-05,breakfast,Idli Sambar,1200,733,287.5,88.6,15.2,N
+2026-01-23,breakfast,Aloo Paratha,1200,843,276.0,11.1,16.2,N
+2026-03-16,lunch,Tinda Masala,1200,846,495.7,126.3,88.2,N
+2026-03-10,breakfast,Poha,1200,758,281.3,69.2,18.0,N
+2026-03-08,dinner,Aloo Gobi,1200,704,514.4,190.4,27.3,N
+2026-03-30,breakfast,Masala Dosa,1200,876,286.7,25.4,13.7,N
+2026-01-16,breakfast,Idli Sambar,1200,827,272.5,31.2,15.9,N
+2026-03-28,lunch,Aloo Gobi,1200,935,482.6,58.5,,N
+2026-03-06,lunch,Kadhi Pakoda,1200,871,491.2,86.9,36.1,N
+03-09-2025,lunch,Egg Curry,1200,1028,475.6,23.4,16.4,N
+2025-08-10,breakfast,Masala Dosa,1200,390,282.4,163.5,5.6,N
+2025-07-29,dinner,Lauki Chana Dal,1200,981,468.5,31.2,79.9,N
+2025-08-23,lunch,Rajma Chawal,1200,1073,472.3,2.8,30.2,Y
+2026-01-30,breakfast,Upma,1200,756,276.7,64.1,42.1,N
+2026-02-18,breakfast,Masala Dosa,1200,957,274.1,12.7,10.2,N
+2026-01-26,lunch,Kadhi Pakoda,1200,492,495.0,281.7,22.2,N
+2025-11-19,breakfast,Upma,1200,710,273.3,56.8,37.2,N
+2025-11-01,Breakfast,Vermicelli Upma,1200,386,254.3,140.1,23.2,N
+2026-02-23,lunch,Egg Curry,1200,1013,461.9,0.9,28.1,Y
+2025-10-13,breakfast,Masala Dosa,1200,796,272.6,38.9,11.8,N
+2026-02-03,lunch,Chicken Curry,1200,1091,477.8,0.8,15.2,Y
+2026-01-13,LUNCH,Kadhi Pakoda,1200,978,481.8,38.2,49.2,N
+2025-12-15,breakfast,Idli Sambar,1200,765,266.8,32.7,,N
+2026-01-11,dinner,Dal Makhani,1200,718,506.4,166.0,14.5,N
+2025-07-28,lunch,Chole Bhature,1200,1021,490.0,27.7,20.0,N
+2025-08-10,dinner,Chole Bature,1200,819,482.1,128.2,16.5,N
+2025-09-08,lunch,Soya Chunk Curry,1200,927,475.3,28.3,55.7,N
+2026-01-14,breakfast,Upma,1200,654,269.2,54.3,44.6,N
+2025-11-15,breakfast,Bread Omelette,1200,448,265.2,136.3,9.8,N
+2025-10-14,dinner,Chole Bhature,1200,1135,503.1,1.8,20.7,Y
+2025-08-07,lunch,Veg Biryani,1200,1112,472.3,2.7,19.9,Y
+2025-10-09,Dinner,Lauki Chana Dal,1200,910,474.8,63.4,81.6,N
+2025-09-16,dinner,Aloo Gobi,1200,993,525.4,79.6,40.6,N
+2025-08-01,dinner,Egg Curry,1200,954,509.6,89.3,24.2,N
+2025-09-18,lunch,Rajma Chawal,1200,1069,474.8,3.6,25.1,Y
+2025-08-30,breakfast,Poha,1200,459,266.0,128.8,10.7,N
+2025-10-20,dinner,Rajma Chawal,1200,262,145.1,24.2,8.5,N
+2025-08-04,dinner,Dal Makhani,1200,1109,493.3,1.3,32.0,Y
+2025-10-29,breakfast,Masala Dosa,1200,769,270.2,40.4,9.9,N
+2025-08-15,lunch,Aloo Gobi,1200,477,492.9,269.3,17.6,N
+2025-11-20,dinner,Egg Curry,1200,1009,476.8,20.0,24.7,N
+2025-09-29,dinner,Aloo Gobi,1200,1177,510.8,3.3,45.9,Y
+2025-10-18,breakfast,Upma,1200,108,82.2,50.8,5.4,N
+2025-11-01,dinner,Aloo Gobi,1200,503,521.1,300.6,22.3,N
+2025-12-16,breakfast,Masala Dosa,1200,833,264.5,12.7,14.1,N
+2026-01-20,dinner,Veg Biryani,1200,1114,481.1,0.8,23.1,Y
+2026-01-18,breakfast,Bread Omelette,1200,414,264.3,149.9,6.9,N
+2025-08-01,breakfast,Idli Sambar,1200,706,283.9,70.4,16.3,N
+2025-07-24,breakfast,Idli Sambar,1200,739,259.6,24.3,15.8,N
+2025-09-12,lunch,Chole Bhature,1200,1002,487.6,32.1,19.6,N
+2025-10-24,breakfast,Vermicelli Upma,1200,176,81.0,24.3,11.6,N
+2025-10-27,LUNCH,Rajma Chawal,1200,1055,461.6,4.6,26.7,N
+2026-02-27,lunch,Mixed Veg,1200,889,482.0,78.8,51.7,N
+2026-03-02,lunch,Aloo Gobi,1200,911,470.4,77.0,50.6,N
+2025-10-21,lunch,Chole Bhature,1200,257,138.4,18.6,5.0,N
+2026-03-14,lunch,Chicken Curry,1200,1039,490.1,29.5,16.4,N
+2026-02-23,breakfast,Upma,1200,829,272.5,16.5,49.9,N
+2026-01-14,lunch,Chicken Curry,1200,1039,475.7,21.5,13.2,N
+2026-01-18,lunch,Dal Makhani,1200,855,476.2,83.2,23.0,N
+2025-09-19,dinner,Dal Makhani,1200,963,496.2,86.7,16.5,N
+2026-03-24,breakfast,Puri Bhaji,1200,783,270.6,44.4,10.2,N
+02-08-2025,breakfast,Masala Dosa,1200,433,266.3,134.7,3.7,N
+2025-09-11,Breakfast,Masala Dosa,1200,863,273.6,9.5,16.2,N
+2025-07-21,dinner,Chole Bhature,1200,1048,500.8,39.6,15.8,N
+2026-01-22,lunch,Bhindi Masala,1200,1006,487.8,55.0,39.2,N
+2026-01-18,dinner,Lauki Chana Dal,1200,602,497.0,210.7,57.4,N
+2025-10-31,DINNER,Chicken Curry,1200,619,507.8,230.7,9.3,N
+2025-10-25,lunch,Chicken Curry,1200,254,140.5,30.0,3.8,N
+2026-02-08,dinner,Soya Chunk Curry,1200,363,485.0,315.7,27.3,N
+2025-12-06,breakfast,Aloo Paratha,1200,569,274.9,102.6,6.9,N
+2025-12-08,lunch,Kadhi Pakoda,1200,982,469.9,19.4,48.2,N
+2025-09-06,breakfast,Vermicelli Upma,1200,403,277.5,154.6,26.0,N
+2025-10-03,lunch,Lauki Chana Dal,1200,944,481.6,64.8,76.6,N
+2025-09-20,breakfast,Bread Omelette,1200,467,266.4,123.5,6.5,N
+2026-02-25,lunch,Chole Bhature,1200,1038,474.8,6.4,21.6,N
+2026-01-23,lunch,Rajma Chawal,1200,968,488.3,51.7,26.1,N
+2026-02-25,dinner,Paneer Butter Masala,1200,1174,494.5,1.7,20.0,Y
+2025-08-29,breakfast,Vermicelli Upma,1200,756,282.3,48.9,,N
+2025-07-21,lunch,Rajma Chawal,1200,963,453.0,24.2,34.2,N
+2025-08-27,dinner,Egg Curry,1200,1033,494.6,3.2,24.6,N
+2026-03-25,breakfast,Vermicelli Upma,1200,713,276.4,62.3,39.4,N
+2025-09-14,breakfast,Vermicelli Upma,1200,301,271.0,176.1,21.9,N
+20-09-2025,lunch,Lauki Chana Dal,1200,788,458.3,113.0,67.8,N
+2026-03-19,dinner,Soya Chunk Curry,1200,958,502.7,82.0,38.4,N
+2025-11-22,breakfast,Masala Dosa,1200,519,262.6,101.1,7.8,N
+2025-10-20,lunch,Tinda Masala,1200,224,139.5,34.4,25.6,N
+2025-07-21,breakfast,Poha,1200,776,254.6,28.2,15.2,N
+2026-02-10,dinner,Aloo Gobi,1200,1008,488.5,37.5,42.9,N
+2026-02-02,breakfast,Masala Dosa,1200,804,275.1,42.0,13.7,N
+2026-01-19,dinner,Kadhi Pakoda,1200,1029,479.5,49.0,53.9,N
+2025-11-25,dinner,Soya Chunk Curry,1200,1128,495.9,1.5,63.2,Y
+2025-12-03,BREAKFAST,Vermicelli Upma,1200,868,266.3,22.7,45.9,N
+2026-02-09,breakfast,Idli Sambar,1200,764,252.7,21.1,16.4,N
+2025-07-27,dinner,Tinda Masala,1200,593,499.8,230.2,42.7,N
+2025-09-17,dinner,Tinda Masala,1200,960,500.3,60.7,87.5,N
+2025-11-09,dinner,Rajma Chawal,1200,801,492.4,116.2,20.3,N
+2025-11-24,lunch,Lauki Chana Dal,1200,978,511.7,94.5,79.6,N
+2026-02-03,dinner,Egg Curry,1200,1032,507.9,26.1,24.6,N
+2025-09-16,BREAKFAST,Upma,1200,699,267.1,59.7,35.7,N
+2026-01-26,breakfast,Bread Omelette,1200,419,274.4,148.7,9.5,N
+2026-01-22,BREAKFAST,Upma,1200,686,269.6,67.1,37.9,N
+2025-09-09,dinner,Egg Curry,1200,1088,487.9,2.1,39.4,Y
+2026-02-28,breakfast,Puri Bhaji,1200,410,136.0,10.8,5.5,N
+2025-12-05,dinner,Rajma Chawal,1200,1080,509.2,11.1,35.0,N
+2026-02-25,breakfast,Idli Sambar,1200,893,279.4,18.1,,N
+2026-03-01,lunch,Chicken Curry,1200,1029,489.9,10.3,13.8,N
+2026-02-15,dinner,Veg Biryani,1200,821,516.5,146.8,16.4,N
+2026-03-07,dinner,Chicken Curry,1200,912,509.7,107.7,13.0,N
+2025-11-03,lunch,Chole Bhature,1200,1044,471.2,2.9,24.4,N
+15-10-2025,breakfast,Puri Bhaji,1200,811,273.9,31.1,13.2,N
+2026-03-14,dinner,Egg Curry,1200,906,473.8,51.0,22.5,N
+2026-01-11,BREAKFAST,Puri Bhaji,1200,437,263.6,123.4,6.3,N
+2025-11-10,lunch,Paneer Butter Masala,1200,1003,495.2,29.2,18.2,N
+01-02-2026,lunch,Mixed Veg,1200,854,482.3,102.0,60.1,N
+21-01-2026,breakfast,Poha,1200,701,263.5,74.2,11.6,N
+2025-11-30,dinner,Dal Makhani,1200,822,496.5,137.7,19.9,N
+2025-12-09,breakfast,Bread Omelette,1200,1034,263.9,0.9,14.6,Y
+2026-02-23,dinner,Aloo Gobi,1200,1177,487.5,3.3,25.4,Y
+2026-03-14,breakfast,Masala Dosa,1200,451,151.5,24.2,7.5,N
+2026-01-13,breakfast,Poha,1200,747,279.8,51.3,,N
+2025-12-08,dinner,Soya Chunk Curry,1200,1067,526.4,37.5,90.0,N
+2025-08-29,dinner,Rajma Chawal,1200,1002,496.9,46.4,25.7,N
+2026-03-10,dinner,Chole Bature,1200,1062,481.5,0.7,17.8,Y
+2026-03-21,breakfast,Idli Sambar,1200,478,151.6,21.1,12.4,N
+2025-10-25,lunch,Chicken Curry,1200,254,140.5,30.0,3.8,N
+2026-03-13,dinner,Veg Biryani,1200,963,474.7,66.8,21.7,N
+2025-10-14,lunch,Rajma Chawal,1200,1010,474.2,6.7,34.0,N
+2026-03-08,lunch,Egg Curry,1200,908,486.2,61.3,21.4,N
+2025-10-12,breakfast,Idli Sambar,1200,317,295.5,196.7,7.6,N
+2026-03-15,lunch,Aloo Gobi,1200,907,478.2,89.2,37.4,N
